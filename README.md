@@ -1,0 +1,2 @@
+# bmwweb
+bmwweb-domain.list
